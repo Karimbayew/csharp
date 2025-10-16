@@ -1,0 +1,38 @@
+# Временные файлы Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Файлы сборки
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+[Oo]bj/
+
+# Файлы пакетов NuGet
+packages/
+*.nupkg
+.nuget/
+
+# Файлы проектов
+*.cache
+*.pdb
+*.dll
+*.exe
+
+# Файлы настроек Rider
+.idea/
+
+# Файлы VS Code
+.vscode/
+
+# Резервные копии
+*.backup
+*.tmp
+~$*
