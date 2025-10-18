@@ -16,7 +16,5 @@ class Program
         {
             Console.WriteLine("Ошибка: введите корректное число!");
         }
-    
-        Console.ReadKey();
     }
 }

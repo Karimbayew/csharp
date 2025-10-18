@@ -31,6 +31,5 @@ class Program
         }
         
         Console.WriteLine($"Итоговая сумма: {sum}");
-        Console.ReadKey();
     }
 }

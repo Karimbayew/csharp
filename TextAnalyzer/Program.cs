@@ -20,8 +20,6 @@ class Program
         
         // Анализируем текст
         AnalyzeText(text);
-        
-        Console.ReadKey();
     }
     
     static void AnalyzeText(string text)

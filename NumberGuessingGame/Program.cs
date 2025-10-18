@@ -38,7 +38,5 @@ class Program
                 Console.WriteLine("Ошибка: введите целое число от 1 до 10!");
             }
         }
-        
-        Console.ReadKey();
     }
 }
